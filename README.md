@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2020 - 07 August, 2020
+Week: 01 August, 2020 - 08 August, 2020
 
 Python      5 hrs 4 mins        ████████████████░░░░░░░░░   65.82 % 
 JSON        47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
