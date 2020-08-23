@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2020 - 21 August, 2020
+Week: 15 August, 2020 - 22 August, 2020
 
 Python      1 hr 59 mins        ███████████░░░░░░░░░░░░░░   46.34 % 
 CSV         1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   26.50 % 
