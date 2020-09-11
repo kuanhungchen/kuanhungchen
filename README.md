@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2020 - 09 September, 2020
+Week: 03 September, 2020 - 10 September, 2020
 
-Python      8 hrs 31 mins       ████████████████░░░░░░░░░   64.82 % 
-Text        2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-CSV         29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-JSON        29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Markdown    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Python      5 hrs 54 mins       ████████████████░░░░░░░░░   63.69 % 
+Text        1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Markdown    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+JSON        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+CSV         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 <!--END_SECTION:waka-->
