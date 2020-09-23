@@ -2,11 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2020 - 21 September, 2020
+Week: 15 September, 2020 - 22 September, 2020
 
-Python      5 hrs 37 mins       ████████████████░░░░░░░░░   63.63 % 
-Text        2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
-CSV         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-JSON        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python      5 hrs 32 mins       █████████████████░░░░░░░░   70.47 % 
+Text        2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   26.38 % 
+CSV         14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 <!--END_SECTION:waka-->
