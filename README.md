@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2020 - 16 October, 2020
+Week: 10 October, 2020 - 17 October, 2020
 
 Python      6 hrs 4 mins        ████████████████░░░░░░░░░   64.56 % 
 VimL        1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
