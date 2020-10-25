@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2020 - 23 October, 2020
+Week: 17 October, 2020 - 24 October, 2020
 
 Python      4 hrs               ████████████████░░░░░░░░░   64.84 % 
 CSV         51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
