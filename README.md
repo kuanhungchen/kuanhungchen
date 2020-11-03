@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2020 - 01 November, 2020
+Week: 26 October, 2020 - 02 November, 2020
 
-Python      30 hrs 2 mins       ███████████████████░░░░░░   78.62 % 
-HTML        2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Text        2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Bash        1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Git Config  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Python      22 hrs 3 mins       ██████████████████░░░░░░░   73.84 % 
+HTML        2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Text        2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Bash        39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other       38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 <!--END_SECTION:waka-->
