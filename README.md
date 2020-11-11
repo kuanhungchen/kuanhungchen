@@ -1,5 +1,7 @@
 💻 **This week I've done...**
 
+![welcome](image/welcome.jpg)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 03 November, 2020 - 10 November, 2020
