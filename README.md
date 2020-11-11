@@ -1,7 +1,5 @@
 💻 **This week I've done...**
 
-![welcome](image/welcome.jpg)
-
 <!--START_SECTION:waka-->
 ```text
 Week: 03 November, 2020 - 10 November, 2020
@@ -13,3 +11,5 @@ CSV         43 mins             █░░░░░░░░░░░░░░░
 JSON        38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 <!--END_SECTION:waka-->
+
+![welcome](image/welcome.jpg)
