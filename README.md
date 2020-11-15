@@ -11,5 +11,3 @@ JSON        43 mins             █░░░░░░░░░░░░░░░
 HTML        29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 <!--END_SECTION:waka-->
-
-![welcome](image/welcome.jpg)
