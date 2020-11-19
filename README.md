@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2020 - 17 November, 2020
+Week: 11 November, 2020 - 18 November, 2020
 
-Python      9 hrs 1 min         █████████████████░░░░░░░░   67.82 % 
-VimL        1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-JavaScript  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-JSON        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Markdown    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Python      4 hrs 23 mins       ██████████████░░░░░░░░░░░   58.26 % 
+JavaScript  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+VimL        45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Markdown    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Text        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 <!--END_SECTION:waka-->
