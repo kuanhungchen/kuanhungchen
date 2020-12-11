@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-HTML        3 hrs 22 mins       ████████████████░░░░░░░░░   65.60 % 
-Python      1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   26.28 % 
-CSS         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-JavaScript  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Markdown    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+HTML        3 hrs 54 mins       ███████████████████░░░░░░   78.16 % 
+Python      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+JSON        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+CSS         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+JavaScript  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 <!--END_SECTION:waka-->
