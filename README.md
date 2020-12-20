@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 12 December, 2020 - 19 December, 2020
 
 Python      11 hrs 50 mins      ███████████████████████░░   92.79 % 
 Markdown    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
