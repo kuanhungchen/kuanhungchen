@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 Python      4 hrs 50 mins       ███████████████████████░░   91.87 % 
 Other       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
