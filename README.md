@@ -2,8 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
-C           14 mins             █████████████████████████   100.00 %
+Python      1 hr 15 mins        ████████████████████░░░░░   80.89 % 
+C           14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Other       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 <!--END_SECTION:waka-->
