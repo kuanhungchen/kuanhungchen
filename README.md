@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
 Python      6 hrs 36 mins       ███████████████████████░░   94.03 % 
 JSON        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
