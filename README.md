@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 March, 2021 - 12 March, 2021
+Week: 06 March, 2021 - 13 March, 2021
 
 Python      8 hrs 47 mins       ██████████████░░░░░░░░░░░   59.19 % 
 C++         5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
